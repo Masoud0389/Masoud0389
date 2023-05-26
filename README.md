@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Masoud0389
-- 👀 I’m interested in ML, Data Science, Penetration Testing, Python Programming and Security Analysis
-- 🌱 I’m currently learning Machine Learning and Data Science
-- 💞️ I’m looking to collaborate on ML projects and Security Analysis projects
-- 📫 How to reach me ...
+# Overview
 
-<!---
-Masoud0389/Masoud0389 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub repository! Here you will find information about my skills, experience, and projects related to data science, data engineering, machine learning, and deep learning.
+
+## Contact Information
+
+Feel free to reach out to me at [masoudahmadzadeh48@gmail.com](mailto:masoudahmadzadeh48@gmail.com) for any inquiries, collaboration opportunities, or further discussions. In addition, You can reach me on Linkedin and GitHub.
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/masoud-ahmadzadeh-389894128/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/masoud0389)
+## Skills
+- Python
+- TensorFlow
+- scikit-learn
+- PostgreSQL
+- pandas
+- NumPy
+- Matplotlib
+- Tableau
+
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoud0389&layout=pie)](https://github.com/masoud0389/github-readme-stats)
